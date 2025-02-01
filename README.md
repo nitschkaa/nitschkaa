@@ -3,8 +3,8 @@
 ## I'm Veronika, a novice backend developer
 
 ### Languages and Tools
-![Telegram](https://shields.microej.com/badge/-Telegram-f9befa?style=for-the-badge&logo=telegram&logoColor=3e98ed?)
 ![Python](https://shields.microej.com/badge/-Python-f9befa?style=for-the-badge&logo=Python&logoColor=f4f736)
 ![Django](https://shields.microej.com/badge/-Django-f9befa?style=for-the-badge&logo=Django&logoColor=f78736)
 
-Follow Me
+### Follow Me
+[![Telegram](https://shields.microej.com/badge/-Telegram-f9befa?style=for-the-badge&logo=telegram&logoColor=3e98ed?)](https://t.me/nittschkaa)
