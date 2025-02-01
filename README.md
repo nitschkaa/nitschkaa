@@ -9,6 +9,6 @@
 ### Follow Me
 [![Telegram](https://shields.microej.com/badge/-Telegram-f9befa?style=for-the-badge&logo=telegram&logoColor=3e98ed?)](https://t.me/nittschkaa)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitschkaa&show_icons=true&theme=dracula)
 
 ![Github statistics](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitschkaa&theme=dracula)
