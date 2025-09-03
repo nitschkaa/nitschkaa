@@ -8,6 +8,7 @@
 ![Django](https://shields.microej.com/badge/-Django-f9befa?style=for-the-badge&logo=Django&logoColor=f78736)
 ![CSS](https://badges.cucumberstudio.com/badge/-CSS-f9befa?style=for-the-badge&logo=CSS&logoColor=f9fd77)
 ![HTML](https://badges.cucumberstudio.com/badge/-HTML-f9befa?style=for-the-badge&logo=HTML&logoColor=fa4b42)
+![figma](https://badges.cucumberstudio.com/badge/-figma-f9befa?style=for-the-badge&logo=figma&logoColor=fBFED74)
 
 ### Follow Me
 
