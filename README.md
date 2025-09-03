@@ -3,10 +3,14 @@
 ## Hi, i'm Veronika, a novice backend developer
 
 ### Languages and Tools
+
 ![Python](https://shields.microej.com/badge/-Python-f9befa?style=for-the-badge&logo=Python&logoColor=f4f736)
 ![Django](https://shields.microej.com/badge/-Django-f9befa?style=for-the-badge&logo=Django&logoColor=f78736)
+![CSS](https://badges.cucumberstudio.com/badge/-CSS-f9befa?style=for-the-badge&logo=CSS&logoColor=f9fd77)
+![HTML](https://badges.cucumberstudio.com/badge/-HTML-f9befa?style=for-the-badge&logo=HTML&logoColor=fa4b42)
 
 ### Follow Me
+
 [![Telegram](https://shields.microej.com/badge/-Telegram-f9befa?style=for-the-badge&logo=telegram&logoColor=3e98ed?)](https://t.me/nittschkaa)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitschkaa&show_icons=true&theme=dracula)
